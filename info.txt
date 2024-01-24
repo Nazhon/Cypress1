@@ -1,0 +1,14 @@
+#Instalación de la nueva versión
+1.- npm install cypress --save-dev
+
+2.- instalar NPX
+npm install -g npx
+
+3.- Iniciar la aplicación
+npx cypress open
+
+4.- testingqarvn.com.es
+
+5.- para los ID -> #, para las clases -> .
+
+
