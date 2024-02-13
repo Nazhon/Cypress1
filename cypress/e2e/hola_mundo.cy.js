@@ -16,7 +16,7 @@ describe("Primer test con cypress", () =>{
         cy.get("#wsf-1-field-28").type("Demo de la dirección")
         cy.get("#wsf-1-field-27").click()
         cy.wait(4000)
-
+        cy.log("test")
     })
 
 
